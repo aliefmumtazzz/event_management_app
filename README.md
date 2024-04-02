@@ -9,6 +9,18 @@
 - Store and get data from local storage
 
 ## App Screenshot
+- Home page
+![Screenshot_1712016433](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/577a9e1d-c8e2-4003-aa15-93045cc7106f)
+- Week view
+![Screenshot_1712016428](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/cfea34de-36b2-4e6f-8b83-a18fb9396e7b)
+- Day view
+![Screenshot_1712016422](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/4112183d-6310-4c42-88e8-9fe3ad8ef9d3)
+- Month view
+![Screenshot_1712016402](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/ddf1d352-577f-4b84-93e1-ce8d6c25a01b)
+- Add event page
+![Screenshot_1712016307](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/174c72ee-9b87-4348-a899-78ae9da46abd)
+![Screenshot_1712016309](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/7774652e-e205-489c-9158-d9c5c178195f)
+![Screenshot_1712016329](https://github.com/aliefmumtazzz/event_management_app/assets/109934594/7a709277-7c7d-4f45-9b17-f0e681234e24)
 
 ## Repository structure
 
