@@ -30,8 +30,8 @@ class EventCubit extends Cubit<EventState> {
     emit(const EventState.loading());
     final result = await _saveEvent(EventParam(events: events));
     result.fold(
-      (l) => debugPrint('exec error save $l'),
-      (r) => debugPrint('exec success save'),
+      (l) => debugPrint('error save $l'),
+      (r) => debugPrint('success save'),
     );
   }
 
